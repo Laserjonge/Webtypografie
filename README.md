@@ -81,3 +81,10 @@ Voor een goede onderbouwing van je keuze voor een ander fragment moet je deze vr
 Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [caption generator](https://cmda-minor-vid.github.io/web-typography-18-19/generator/) (in Google Chrome). 
 
 Als je de closed captions wil bewerken dan kan je een tool zoals [Amber Script](https://www.amberscript.com/en) gebruiken. Daar kan je exporteren als `.srt`, en die kan je weer door de generator halen.
+
+## Ontwerpkeuzes
+### Fonts
+Voor het stijlen van het font heb ik gekozen om de teksten had ik de keuze tussen Brenner en het systeemfont van de gebruiker, ik heb gekozen voor Brenner omdat ik op deze manier zeker weet welke letters de gebruiker te zien zal krijgen en er geen lastig te lezen font per ongeluk op het scherm te zien zal zijn. Vervolgens heb ik de teksten op een soort Teletekst manier opgemaakt: de zinnen hebben een kleur die overeenkomt met de persoon, zodat je kunt zien wie wat zegt. Voice1 is een robot achtige stem, deze heb ik blauw gemaakt omdat dit een koude toon heeft. Voice2 is de hoofdpersoon deze heeft een wat warmere stem daarom heb ik deze rood gemarkeerd. Voice3 is een bijpersoon die even snel een vage snauw maakt, deze heb ik lichtgrijs gemaakt.
+
+### Geluiden
+Tijdens het filmfragment worden er verschillende signalen gegeven. De alarmen heb ik met een slagschaduw op een donkere achtergrond op laten komen. Bij het(negatievere) gezoem komt er een rood alarm in beeld en bij het (positievere) gebel komt er een blauw alarm in beeld. Eenmaal in de gesloten ruimte komt er een akelige hoge toon in de achtergrond op die steeds heviger wordt, dit heb ik vormgegeven door de achtergrond letterlijk te laten knipperen en dit naar maten het geluid heviger wordt, komt het geknipper steeds duidelijker en vervelender in beeld.
